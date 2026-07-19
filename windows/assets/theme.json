@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-ultra-light-guardian",
+  "name": "奥特曼风 · 星穹守望",
+  "brandSubtitle": "ULTRA LIGHT MODE",
+  "tagline": "让光穿过星海，照亮今天的代码。",
+  "projectPrefix": "选择任务 · ",
+  "projectLabel": "◉  选择任务",
+  "statusText": "LIGHT GUARDIAN ONLINE",
+  "quote": "BUILD TOWARD THE LIGHT",
+  "image": "dream-reference.jpg",
+  "appearance": "dark",
+  "art": {
+    "focusX": 0.78,
+    "focusY": 0.43,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#061426",
+    "panel": "#0B1C31",
+    "panelAlt": "#102A46",
+    "accent": "#42D9FF",
+    "accentAlt": "#8BEAFF",
+    "secondary": "#D7192D",
+    "highlight": "#FF4055",
+    "text": "#F2F8FF",
+    "muted": "#91A8C2",
+    "line": "rgba(66, 217, 255, .28)"
+  }
+}

@@ -1,0 +1,14 @@
+# Runtime logs and verification captures
+*.log
+*-live.png
+ultra-light-live.png
+
+# Local runtime state
+state.json
+paused
+
+# Editor and OS metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
