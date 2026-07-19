@@ -2,6 +2,7 @@
 *.log
 *-live.png
 ultra-light-live.png
+!docs/images/codex-theme-live.png
 
 # Local runtime state
 state.json
